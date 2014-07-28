@@ -1,0 +1,174 @@
+[
+  {
+    "type": "eon",
+    "name": "Phanerozoic",
+    "color": "#91D8EE",
+    "children": [{ 
+      "type": "era",
+      "name": "Ceinozoic",
+      "color": "#F5ED30",
+      "children": [{
+        "type": "period",
+        "name": "Quatemary",
+        "color": "#FDF89A",
+        "children": [{
+          "type": "epoch",
+          "name": "Holocene",
+          "color": "#FEF1E3",
+          "ageFrom": 0.0017,
+          "ageTo": null
+        }]
+      }, {
+        "type": "epoch",
+        "name": "Pleistocene",
+        "color": "#FEF1BD",
+        "children": {
+
+        }
+        }]
+      }]
+    }, {
+      "type": "era"
+    }],
+  }, {
+    "type": "supereon",
+    "name": "Precambrian",
+    "color": "#F16781",
+    "children": [{
+      "type": "eon",
+      "name": "Proterozoic",
+      "color": "#F05978",
+      "children": [{
+        "type": "era",
+        "name": "Neoproterozoic",
+        "color": "#FDBB64",
+        "children": [{
+          "type": "period",
+          "name": "Ediacaran",
+          "color": "#FED887",
+          "ageFrom": 635,
+          "ageTo": 541,
+        }, {
+          "type": "period",
+          "name": "Cryogenian",
+          "color": "#FCCE79",
+          "ageFrom": 850,
+          "ageTo": 635,
+        }, {
+          "type": "period",
+          "name": "Tonian",
+          "color": "#FEC470",
+          "ageFrom": 1000,
+          "ageTo": 850,
+        }]
+      }, {
+        "type": "era",
+        "name": "Mesoprotesoic",
+        "color": "#FDBB64",
+        "children": [{
+          "type": "period",
+          "name": "Stenian",
+          "color": "#FFDBAB",
+          "ageFrom": 1200,
+          "ageTo": 1000,
+        }, {
+          "type": "period",
+          "name": "Ectasian",
+          "color": "#FBD09D",
+          "ageFrom": 1400,
+          "ageTo": 1200,
+        }, {
+          "type": "period",
+          "name": "Calymmian",
+          "color": "#FDC691",
+          "ageFrom": 1400,
+          "ageTo": 1600,
+        }] 
+      }, {
+        "type": "era",
+        "name": "Paleoprotezoic",
+        "color": "#F16781",
+        "children": [{
+          "type": "period",
+          "name": "Statherian",
+          "color": "#F490AC",
+          "ageFrom": 1800,
+          "ageTo": 1600,
+        }, {
+          "type": "period",
+          "name": "Orosirian",
+          "color": "#F2869E",
+          "ageFrom": 2050,
+          "ageTo": 1800,
+        }, {
+          "type": "period",
+          "name": "Rhyacian",
+          "color": "#F37B96",
+          "ageFrom": 2300,
+          "ageTo": 2050,
+        }, {
+          "type": "period",
+          "name": "Siderian",
+          "color": "#F1708C",
+          "ageFrom": 2500,
+          "ageTo": 2300,
+        }]  
+      }]
+    }, {
+      "type": "eon",
+      "name": "Archean",
+      "color": "#ED008C",
+      "children": [{
+        "type": "era",
+        "name": "Neoarchean",
+        "color": "#F6AEC6",
+        "children": [{
+          "type": "period",
+          "name": "",
+          "color": "#F6B7CA",
+          "ageFrom": 2800,
+          "ageTo": 2500,
+        }],
+      }, {
+        "type": "era",
+        "name": "Mesoarchean",
+        "color": "#F285AF",
+        "children": [{
+          "type": "period",
+          "name": "",
+          "color": "#F499B8",
+          "ageFrom": 3200,
+          "ageTo": 2800,
+        }],
+      }, {
+        "type": "era",
+        "name": "Paleoarchean",
+        "color": "#F068A6",
+        "children": [{
+          "type": "period",
+          "name": "",
+          "color": "#F288B6",
+          "ageFrom": 3600,
+          "ageTo": 3200,
+        }],
+      }, {
+        "type": "era",
+        "name": "Eoarchean",
+        "color": "#D90C8D",
+        "children": [{
+          "type": "period",
+          "name": "",
+          "color": "#E33A93",
+          "ageFrom": 4000,
+          "ageTo": 3600,
+        }],
+      }]
+    }, {
+      "type": "eon",
+      "name": "Hadean",
+      "color": "#B51D8C",
+      "ageFrom": 4600,
+      "ageTo": 4000
+    }]
+  }
+]
