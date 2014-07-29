@@ -15,16 +15,42 @@
           "type": "epoch",
           "name": "Holocene",
           "color": "#FEF1E3",
-          "ageFrom": 0.0017,
-          "ageTo": null
+          "children": [{
+            "type": "age",
+            "name": "",
+            "color": "",
+            "ageFrom": 0.0117,
+            "ageTo": null
+          }]
         }]
       }, {
         "type": "epoch",
         "name": "Pleistocene",
         "color": "#FEF1BD",
-        "children": {
-
-        }
+        "children": [{
+          "type": "age",
+          "name": "Upper",
+          "color": "#FEF2DA"
+          "ageFrom": 0.126,
+          "ageTo": 0.0117
+        }, {
+          "type": "age",
+          "name": "Middle",
+          "color": "#FFF1D0"
+          "ageFrom": 0.781,
+          "ageTo": 0.126
+        }, {
+          "type": "age",
+          "name": "Calabrian",
+          "color": "#FEEFC6",
+          "ageFrom": 1.80,
+          "ageTo": 0.781
+        }, {
+          "type": "age",
+          "name": "Gelasian",
+          "color": "#FEEFB4",
+          "ageFrom": 2.58,
+          "ageTo": 1.80
         }]
       }]
     }, {
