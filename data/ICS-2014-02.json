@@ -30,13 +30,13 @@
         "children": [{
           "type": "age",
           "name": "Upper",
-          "color": "#FEF2DA"
+          "color": "#FEF2DA",
           "ageFrom": 0.126,
           "ageTo": 0.0117
         }, {
           "type": "age",
           "name": "Middle",
-          "color": "#FFF1D0"
+          "color": "#FFF1D0",
           "ageFrom": 0.781,
           "ageTo": 0.126
         }, {
